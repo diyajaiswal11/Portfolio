@@ -1,7 +1,7 @@
 body {
     font-family: 'Comfortaa', cursive;
     font-size: 21px;
-    background-color: #f5e6f0;
+    background-color: #ffffff;
 }
 .navbar {
     background-image: linear-gradient(16deg, #1A2238 0%, #1A2238 80%);
@@ -34,7 +34,7 @@ h2 {
 
 .card {
     background-color: #f5e6f0;
-    border: 2px solid #1A2238;
+    border: 3px solid #1A2238;
     box-shadow: #1A2238;
 }
 
